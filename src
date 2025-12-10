@@ -1,1 +1,26 @@
+src/
+App.jsx
+App.css
+index.css
 
+
+components/
+layout/
+Header.jsx
+Footer.jsx
+
+
+pages/
+Home.jsx
+Quiz.jsx
+Results.jsx
+
+
+ui/
+Button.jsx
+Section.jsx
+
+
+themes/
+luxury.css
+family.css
