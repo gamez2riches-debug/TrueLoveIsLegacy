@@ -1,0 +1,25 @@
+body {
+margin: 0;
+font-family: "Inter", sans-serif;
+background: #f5f5f5;
+}
+
+
+main {
+min-height: 80vh;
+padding: 20px;
+}
+
+
+.family-bg {
+background: #fafcff;
+color: #333;
+transition: 0.3s ease;
+}
+
+
+.luxury-bg {
+background: #0b0b0d;
+color: #f2d9a6;
+transition: 0.3s ease;
+}
