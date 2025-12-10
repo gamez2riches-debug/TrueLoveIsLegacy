@@ -1,0 +1,31 @@
+.luxury-header,
+.luxury-footer {
+background: #000;
+color: #f5d39b;
+padding: 20px;
+text-align: center;
+border-bottom: 1px solid #b88a44;
+}
+
+
+.ui-btn {
+background: linear-gradient(145deg, #b88a44, #e6c08b);
+border: none;
+padding: 15px;
+margin: 10px 0;
+width: 100%;
+color: #000;
+font-weight: bold;
+border-radius: 10px;
+}
+
+
+.ui-section {
+background: #111;
+padding: 30px;
+border-radius: 12px;
+box-shadow: 0 0 12px rgba(255, 215, 160, 0.2);
+max-width: 550px;
+margin: auto;
+color: #f5d39b;
+}
